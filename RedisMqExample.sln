@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisMqExample", "RedisMqExample\RedisMqExample.csproj", "{1ECD9A08-69AF-47E8-A507-5EFC38241C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisMqExampleClient", "RedisMqExampleClient\RedisMqExampleClient.csproj", "{B38A042C-2C0A-4BC8-B0D1-8EFB1A7B3557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ECD9A08-69AF-47E8-A507-5EFC38241C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECD9A08-69AF-47E8-A507-5EFC38241C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECD9A08-69AF-47E8-A507-5EFC38241C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECD9A08-69AF-47E8-A507-5EFC38241C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38A042C-2C0A-4BC8-B0D1-8EFB1A7B3557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38A042C-2C0A-4BC8-B0D1-8EFB1A7B3557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38A042C-2C0A-4BC8-B0D1-8EFB1A7B3557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38A042C-2C0A-4BC8-B0D1-8EFB1A7B3557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
